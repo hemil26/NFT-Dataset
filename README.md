@@ -5,7 +5,7 @@ Dataset for people who love data science and NFT
 
 ----------
 
-### Check CONTRIBUTING.MD for contributing guidelines
+### Check [CONTRIBUTING.MD](https://github.com/hemil26/NFT-Dataset/blob/master/CONTRIBUTING.MD) for contributing guidelines
 
 ----------
 
