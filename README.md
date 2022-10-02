@@ -5,7 +5,7 @@ Dataset for people who love data science and NFT
 
 ----------
 
-### Check [CONTRIBUTING.MD](CONTRIBUTING.MD) for contributing guidelines
+### Check [CONTRIBUTING.MD](CONTRIBUTING.md) for contributing guidelines
 
 ----------
 
