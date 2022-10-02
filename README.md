@@ -1,10 +1,15 @@
-**The Dataset you can play with.** 
+### **The Dataset you can play with.** 
 
 ----------
 Dataset for people who love data science and NFT
 
+----------
 
-**THIS DATASET WILL BE REGULARLY UPDATED ON [KAGGLE](https://www.kaggle.com/hemil26/nft-collections-dataset)**
+### Check CONTRIBUTING.MD for contributing guidelines
+
+----------
+
+### **THIS DATASET WILL BE REGULARLY UPDATED ON [KAGGLE](https://www.kaggle.com/hemil26/nft-collections-dataset)**
 
 ### Content
 
