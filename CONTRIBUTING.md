@@ -4,7 +4,7 @@
  
  Kaggle - [https://www.kaggle.com/datasets/hemil26/nft-collections-dataset](https://www.kaggle.com/datasets/hemil26/nft-collections-dataset)
  
- - Code should be uploaded under the folder '*Hacktoberfest-projects*'
+ - Code should be uploaded under the folder '*[Hacktoberfest-projects](https://github.com/hemil26/NFT-Dataset/tree/master/Hacktoberfest-projects)*'
  - Send a PR with proper description, it will be reviewed and then merged
  
  ---------------
